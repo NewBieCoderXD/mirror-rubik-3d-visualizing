@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rubik Scanner</string>
+    <string name="buttonText">Take a photo</string>
+    <string name="buttonText2">Pick from gallery</string>
+</resources>
